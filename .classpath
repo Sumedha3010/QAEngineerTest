@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/cucumber-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/cucumber-junit-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/cucumber-junit-4.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VISHAL/Desktop/Automation/QAEngineerTest/Library/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
